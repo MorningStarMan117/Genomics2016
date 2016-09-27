@@ -1,0 +1,15 @@
+#This file will contain basic unix scripts for reference later in the course
+
+#Copying files from server to personal computer:
+
+scp location_on_hirundo/filename ~/Desktop/Genomics/ 
+
+#The script above is generic 
+
+#Sparadoxus Bash Scripts
+
+#Takes reference sequence and indexes it:
+
+bwa index s_paradoxus_mt.fa
+
+
