@@ -18,8 +18,6 @@ pair_num_cutoff=3
 #minimum aligned length to contigs for a reliable read location (at least 32 for short insert size)
 map_len=32
 #a pair of fastq file, read 1 file should always be followed by read 2 file
-q1=~/yourfolder/yourtrimmed_read_1.fq
-q2=~/yourfolder/yourtrimmed_read_2.fq
-
-
+q1=~/data2/MorningStarMan/Ropalospora_chlorantha_1_paired.fq
+q2=~/data2/MorningStarMan/Ropalospora_chlorantha_2_paired.fq
 
